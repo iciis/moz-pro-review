@@ -47,7 +47,9 @@ With its powerful tools and user-friendly interface, Semrush is a comprehensive 
 
 ### **1. Site Audit**
 
-
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1o0fTreIhPDIxcXc4cg7AL8j8xjuyANce"  alt="Mozpro Site Audit">
+</a>
 
 * **What it does:** Scans your entire website for SEO issues.
 * **Why it matters:** Identifies problems like broken links, missing tags, slow load times, and duplicate content that may hurt your search rankings.
@@ -175,6 +177,147 @@ This is an SEO tool designed to help businesses and individuals improve their we
 - **SEO Professionals**: For experienced SEO experts, Moz Pro’s in-depth reports and advanced features, like link analysis, can help refine strategies and improve website performance.
 
 It is for anyone who serious about improving their website’s SEO, whether you're just starting or are a seasoned professional.
+
+## How to use **(Step-by-Step Guide to Using Moz Pro)**
+
+### **Step 1: Sign Up and Set Up Your Campaign**
+
+1. **Visit:** [https://moz.com](https://moz.com)
+2. **Create an Account:** Sign up for Moz Pro (free trial available).
+3. **Start a Campaign:**
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1_gRzYw0Ep-u5pAdJvzmlJbVuDlobX_BH"  alt="Mozpro Signup">
+</a>
+
+   * Enter your **website URL**.
+   * Add **keywords** you want to track.
+   * Enter your **competitors’ URLs** (optional but helpful).
+   * Connect Google Analytics and Google Search Console for deeper insights.
+   
+### **Step 2: Perform a Site Audit**
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1ICEcnKQT8PgQtFUytOetLvBiqFyivjGd"  alt="Mozpro Site Crawl">
+</a>
+
+1. Navigate to the **“Site Crawl”** tab.
+2. Moz will automatically scan your site for SEO issues like:
+
+   * Broken links
+   * Missing metadata
+   * Duplicate content
+   * Redirect issues
+     
+3. Review the errors, warnings, and recommendations.
+4. **Fix issues** directly on your site and re-run the crawl for updates.
+
+### **Step 3: Track Rankings**
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=19JLNREhyp8UjPRDhqpX8z2aMvYpWdfHG"  alt="Mozpro Keyword Ranking">
+</a>
+
+1. Go to the **“Rankings”** section.
+2. Monitor the performance of your added keywords across:
+
+   * Google (Desktop & Mobile)
+   * Bing (optional)
+     
+3. View:
+
+   * Daily/weekly ranking changes
+   * Keyword difficulty
+   * Search volume
+     
+4. Add or remove keywords as needed based on performance.
+
+### **Step 4: Analyze Your Backlink Profile**
+
+1. Click on the **“Link Research”** tab.
+2. View:
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=19JLNREhyp8UjPRDhqpX8z2aMvYpWdfHG"  alt="Mozpro Link Research">
+</a>
+
+   * Total backlinks
+   * Linking domains
+   * Spam score
+     
+3. Use the **“Link Intersect Tool”** to:
+
+   * Discover where competitors are getting backlinks from.
+   * Find backlink opportunities you’re missing.
+     
+4. Aim to acquire high-authority links and remove toxic ones.
+
+### **Step 5: Optimize Pages (On-Page Optimization)**
+
+1. Go to the **“Page Optimization”** section.
+2. Enter a page URL and its target keyword.
+3. Moz will give you an optimization score with suggestions to improve:
+
+   * Keyword placement
+   * Heading structure
+   * Page content quality
+     
+4. Implement the changes and recheck the score.
+
+### **Step 6: Conduct Competitor Analysis**
+
+1. Use the **“Compare Link Profiles”** tool.
+2. Input competitor URLs to compare:
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1tUGF6Y5zBWrH-BCEQXr8lGikgmbn9zkG"  alt="Mozpro Competitor Analysis">
+</a>
+
+   * Domain Authority
+   * Total backlinks
+   * Ranking keywords
+     
+3. Use insights to refine your SEO strategy and identify new opportunities.
+
+### **Step 7: Use MozBar for Instant SEO Checks**
+
+1. Install the **MozBar extension** (Chrome).
+2. While browsing any website, you can instantly view:
+
+   * Page authority
+   * Domain authority
+   * Keywords on the page
+   * On-page elements (title tags, meta descriptions, etc.)
+     
+3. Great for quick audits and spying on competitors.
+
+### **Step 8: Create Custom SEO Reports**
+
+1. Go to the **“Custom Reports”** tab.
+2. Choose what data to include:
+
+   * Rankings
+   * Link metrics
+   * Site crawl issues
+     
+3. Schedule reports to be sent automatically to your inbox or stakeholders.
+
+### **Step 9: Learn & Get Support**
+
+1. Access the **Moz Help Center** for tutorials and guides.
+2. Join the **Moz Community** to ask questions or join discussions.
+3. Explore **Moz Academy** for in-depth courses.
+
+### Pro Tips
+
+* Use Moz weekly to monitor changes.
+* Set up **email alerts** for critical issues.
+* Export data for team/client reporting.
+* Combine Moz with other tools like Google Analytics for deeper insights.
+
+Moz Pro is a powerful all-in-one SEO tool designed to help you boost your website’s visibility, track performance, and stay ahead of the competition. By following this step-by-step guide—from setting up your campaign and auditing your site to tracking rankings and building backlinks—you can create a solid SEO strategy that delivers real results. 
+
+Whether you're a beginner or a professional, Moz Pro’s user-friendly interface, insightful reports, and supportive community make it easier to grow your online presence with confidence.
 
 ## **Alternatives to Consider**
 
