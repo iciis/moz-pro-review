@@ -109,10 +109,6 @@ With its powerful tools and user-friendly interface, Semrush is a comprehensive 
 
 ### **8. Page Optimization Tool**
 
-<a href="https://afftrend.com/mozpro">
-  <img src="https://drive.google.com/uc?export=view&id=1WqsG43qfMhPaG-NbBKLdHKfyn3VHJ-Ru"  alt="Mozpro On Page Optimization">
-</a>
-
 * **What it does:** Offers specific SEO suggestions for individual pages.
 * **Why it matters:** Helps ensure each page is fully optimized according to search engine guidelines.
 * **Benefit:** Boosts the SEO strength of high-priority or underperforming pages.
